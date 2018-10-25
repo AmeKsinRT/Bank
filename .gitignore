@@ -102,3 +102,5 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+*.xml
+.idea/Банк 2.iml
